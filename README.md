@@ -1,2 +1,3 @@
-# StoreManagerProject
-Store Manager : Keep Track of Inventory
+Frontend Development using HTML, CSS and ReactJS
+
+Store Manager: Keep Track of Inventory
